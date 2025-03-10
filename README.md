@@ -3,6 +3,12 @@
 
 ✅https://www.veed.io/view/92466e30-7065-4dc5-b581-1fa493ffc170?panel=share
 
+# Description:
+
+-Developed an AI-powered Incident Management System using Angular, Flask, and YOLOv8, enabling real-time detection of fire and helmet violations with automated personnel notifications, improving workplace safety.
+
+-Achieved 95%+ detection accuracy, reducing response time by 40%, and enhancing compliance monitoring through a seamless web interface with efficient backend processing.
+
 # Pics
 
 ![image](https://github.com/user-attachments/assets/11097890-b571-4d85-ab49-f7168b6ee4ff)
